@@ -1,4 +1,4 @@
-FROM python:3.10.0rc1-slim
+FROM python:3.11.0a2-slim
 
 # set up the psycopg2
 # set up the psycopg2
